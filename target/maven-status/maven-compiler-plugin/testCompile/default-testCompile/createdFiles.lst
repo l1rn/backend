@@ -1,0 +1,14 @@
+com\example\transport_marketplace\model\UserTest.class
+com\example\transport_marketplace\service\AuthenticationServiceTest.class
+com\example\transport_marketplace\service\UserServiceTest.class
+com\example\transport_marketplace\service\BookingServiceTest.class
+com\example\transport_marketplace\TransportMarketplaceApplicationTests.class
+com\example\transport_marketplace\test_controllers\RouteControllerTest.class
+com\example\transport_marketplace\test_controllers\AuthControllerTest.class
+com\example\transport_marketplace\service\RouteServiceTest.class
+com\example\transport_marketplace\model\TokenTest.class
+com\example\transport_marketplace\model\BookingTest.class
+com\example\transport_marketplace\test_controllers\UsersControllerTest.class
+com\example\transport_marketplace\jwt\JwtServiceTest.class
+com\example\transport_marketplace\test_controllers\AuthControllerTest$Config.class
+com\example\transport_marketplace\model\RouteTest.class

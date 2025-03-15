@@ -1,0 +1,13 @@
+D:\123\backend\src\test\java\com\example\transport_marketplace\jwt\JwtServiceTest.java
+D:\123\backend\src\test\java\com\example\transport_marketplace\model\BookingTest.java
+D:\123\backend\src\test\java\com\example\transport_marketplace\model\RouteTest.java
+D:\123\backend\src\test\java\com\example\transport_marketplace\model\TokenTest.java
+D:\123\backend\src\test\java\com\example\transport_marketplace\model\UserTest.java
+D:\123\backend\src\test\java\com\example\transport_marketplace\service\AuthenticationServiceTest.java
+D:\123\backend\src\test\java\com\example\transport_marketplace\service\BookingServiceTest.java
+D:\123\backend\src\test\java\com\example\transport_marketplace\service\RouteServiceTest.java
+D:\123\backend\src\test\java\com\example\transport_marketplace\service\UserServiceTest.java
+D:\123\backend\src\test\java\com\example\transport_marketplace\test_controllers\AuthControllerTest.java
+D:\123\backend\src\test\java\com\example\transport_marketplace\test_controllers\RouteControllerTest.java
+D:\123\backend\src\test\java\com\example\transport_marketplace\test_controllers\UsersControllerTest.java
+D:\123\backend\src\test\java\com\example\transport_marketplace\TransportMarketplaceApplicationTests.java
