@@ -1,9 +1,9 @@
 FROM eclipse-temurin:21-jdk-alpine AS builder
 WORKDIR /app
-COPY backend/.mvn/ .mvn
-COPY backend/mvnw .
-COPY backend/pom.xml .
-COPY backend/src/ src
+COPY .mvn/ .mvn
+COPY mvnw .
+COPY pom.xml .
+COPY src/ src
 
 
 RUN chmod +x mvnw && ./mvnw dependency:go-offline -B
